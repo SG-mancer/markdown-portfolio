@@ -1,2 +1,1 @@
-# SG-mancer
-## Shane G
+## Shane George

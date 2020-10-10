@@ -1,1 +1,1 @@
-![image of my laptop and child's toy](https://pbs.twimg.com/media/EJ2TygmVUAA8ZN7?format=jpg&name=large)
+![Octocat moving needle on record player](https://octodex.github.com/images/vinyltocat.png)
