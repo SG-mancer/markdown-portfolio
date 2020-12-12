@@ -1,1 +1,1 @@
-<img scr="https://octodex.github.com/images/vinyltocat.png" width="250">
+<img scr="https://octodex.github.com/images/vinyltocat.png" width="250"/>
