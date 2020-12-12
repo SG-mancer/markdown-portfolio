@@ -1,1 +1,1 @@
-my :seedling: [github profile](https://www.github.com/SG-mancer/)
+my [github profile](https://www.github.com/SG-mancer/)
